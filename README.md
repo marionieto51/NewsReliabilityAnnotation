@@ -1,3 +1,3 @@
-# RUNdeepML: Annotation Proposal Based on the Inverted Pyramid and the 5W1H to Classify the Reliability of News
+# RUN-AS: A novel approach to annotate news reliability for disinformation detection
 
-This is the repository for the Dataset and Guide for using the Annotation showed on "RUNdeepML: Annotation Proposal Based on the Inverted Pyramid and the 5W1H to Classify the Reliability of News" paper. 
+This is the repository of the RUN Dataset and the RUN-AS annotation proposal described in the paper "RUN-AS: A novel approach to annotate news reliability for disinformation detection.
